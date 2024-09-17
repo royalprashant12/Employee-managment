@@ -96,7 +96,7 @@ bash
 Copy code
 cd backend
 npm start
-The server will run on http://localhost:5000.
+The server will run on http://localhost:8080.
 
 2. Frontend (React App)
 To start the frontend React app:
