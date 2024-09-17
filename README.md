@@ -34,6 +34,9 @@ To ensure the application runs smoothly, you need to install several dependencie
 ### Backend Dependencies
 
 ```bash
-npm install express mongoose dotenv cors multer cloudinary multer-storage-cloudinary
+npm install express mongoose dotenv cors multer cloudinary multer-storage-cloudinary cloudinarycc
 
 ```
+### 2. run backend and fronted part  with split terminal
+```
+npm start
