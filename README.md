@@ -21,3 +21,10 @@ Start by cloning this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/employee-management.git
 cd employee-management
+### 2. Install Dependencies
+
+Use the following command to install all the necessary dependencies:
+
+```bash
+npm install
+```
