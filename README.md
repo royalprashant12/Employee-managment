@@ -27,4 +27,13 @@ Use the following command to install all the necessary dependencies:
 
 ```bash
 npm install
+## 🛠️ Install Required Dependencies
+
+To ensure the application runs smoothly, you need to install several dependencies. Below is a consolidated list of all required packages.
+
+### Backend Dependencies
+
+```bash
+npm install express mongoose dotenv cors multer cloudinary multer-storage-cloudinary
+
 ```
